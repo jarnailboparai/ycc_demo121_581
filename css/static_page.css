@@ -66,5 +66,7 @@ a.item{
 	max-width: 5.5em;
 	max-height:none;
 }
-
+.ui-listview > li a h2,.ui-listview > li p{
+	color:#444 !important;
+}
 /* Social Media Page Setting Ends Here */
